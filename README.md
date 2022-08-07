@@ -1,3 +1,3 @@
 # Git Prac
 
-THis Git Practise
+This is for Git Practise
